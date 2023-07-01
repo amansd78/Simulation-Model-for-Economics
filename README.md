@@ -1,8 +1,8 @@
 # Simulation-Model-for-Economics
 The central problem that this model aims to address is the understanding and prediction of business
-performance in different sectors under varying economic conditions. More specifically, it seeks to provide insights into how factors such as business size, sector, wage distribution, economic indicators (CPI
+performance in different sectors under varying economic conditions. More specifically, it seeks to provide insights into how factors such as business size, sector, wage distribution, economic indicators (CPI
 and property index), and the ability of businesses to adjust their workforce influence the profitability
-of businesses over time. Business performance, particularly profit generation, is a key area of interest for a variety of stakeholders, including business owners, investors, policymakers, and economists.
+of businesses over time. Business performance, particularly profit generation, is a key area of interest for a variety of stakeholders, including business owners, investors, policymakers, and economists.
 Profitability not only determines the survival and growth of individual businesses but also influences
 wider economic growth, job creation, and the prosperity of sectors and regions. However, predicting
 business performance is complex due to the multitude of interrelated factors involved. For example,
@@ -11,9 +11,9 @@ may have different levels of competition, affecting income levels. Economic cond
 affecting both income and costs. Businesses may also react to changing conditions by hiring or firing
 employees, further influencing their performance.
 This model, therefore, represents an attempt to build a comprehensive and dynamic simulation of
-business performance. It incorporates a wide range of factors and their interactions, includes mechanisms for simulating the evolution of economic conditions and business adaptation, and allows for the
+business performance. It incorporates a wide range of factors and their interactions, includes mechanisms for simulating the evolution of economic conditions and business adaptation, and allows for the
 comparison of performance across different sectors and business sizes. By doing so, it aims to provide a
-more nuanced understanding of the factors driving business performance and yield more accurate predictions. This could support better decision-making by businesses and other stakeholders, contributing
+more nuanced understanding of the factors driving business performance and yield more accurate predictions. This could support better decision-making by businesses and other stakeholders, contributing
 to improved business outcomes and economic prosperity.
 The parameters for the simulation such as the number of businesses, their sectors, their sizes, the
 duration of the simulation, and the initial economic conditions, are all set at the start of the simulation.
